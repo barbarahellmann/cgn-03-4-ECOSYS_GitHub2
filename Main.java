@@ -16,6 +16,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Mastering Git");
+        System.out.println("Welches Gemüse erzählt die besten Witze?\n" +
+                "-\n" +
+                "Die Kichererbsen.");
     }
 }
